@@ -15,8 +15,9 @@ npm install
 
 ## To execute code use this command
 
-1. tsc ./src/index.ts
-2. node ./src/index.js
+```javascript
+tsc ./src/index.ts | node ./src/index.js
+```
 
 ## To run unit test use this command
 
